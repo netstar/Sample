@@ -1,0 +1,21 @@
+<softlist>
+   <soft>
+       <name>金山词霸</name>
+       <detail>金山词霸是一款很受欢迎的软件</detail>
+       <url>http://www.baidu.com</url>
+       <icon>apple.png</icon>
+   </soft>
+    <soft>
+        <name>愤怒的小鸟</name>
+        <detail>一群小鸟与猪斗争,保卫家园</detail>
+        <url> http://www.baidu.com</url>
+        <icon>apple.png</icon>
+    </soft>
+    <soft>
+        <name>唱吧</name>
+        <detail>一款媒体加社交的产品，产品很受欢迎，具有很多用户。</detail>
+        <url> http://www.baidu.com</url>
+        <icon>apple.png</icon>
+    </soft>
+</softlist>
+    
